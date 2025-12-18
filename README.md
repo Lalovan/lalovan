@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hello there 👋
 
 👩‍💻 I’m a data-driven problem solver with a strong interest in machine learning, data science, and building innovative, end-to-end solutions.
 I’m currently enrolled in the AI & ML Data Science Bootcamp at BeCode.
 
-## Tools & Technologies ##
+## Tools & Technologies
 
-Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-
-Data Science & ML: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-Scraping, Apps & Tools: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+<table>
+  <thead>
+    <tr>
+      <th align="center"> Languages</th>
+      <th align="center"> Data Science & ML</th>
+      <th align="center"> Scraping, Apps & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" alt="SQL" width="44" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.svg" alt="Pandas" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/seaborn/seaborn.svg" alt="Seaborn" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" alt="NumPy" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" width="44" />
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" alt="FastAPI" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/streamlit/streamlit.png" alt="Streamlit" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/beautifulsoup4/beautifulsoup4.svg" alt="BeautifulSoup" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/selenium/selenium.png" alt="Selenium" width="44" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="44" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🚀 What drives me ##
 🔍 Passionate about finding robust solutions to real-world (fictionous is also fine) problems
@@ -23,7 +49,7 @@ Scraping, Apps & Tools: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?s
 
 🌱 Constantly learning and improving
 
-## 🦒 How do I put a giraffe into a refrigerator (or how I approach projects)? ##
+## 🦒 How do I put a giraffe into a fridge (...or how I approach projects)? ##
 - Start by clearly understanding the problem, context, and constraints
 - Explore multiple angles before committing to a solution
 - Break complex problems into manageable, well-defined steps
