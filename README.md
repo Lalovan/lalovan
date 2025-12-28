@@ -16,9 +16,9 @@ Scraping, Apps & Tools: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?s
 
 🧠 Naturally curious — I like understanding why things work (or don't), not just how
 
-🧪 Enjoy math, exploring data, look into the details (to a healthy extent), spotting patterns, and validating assumptions
+🧪 Enjoy reading, math, exploring data, look into the details (to a healthy extent), and spotting patterns
 
-📈 Highly appreciate coordination, structure, and end-to-end pipelines
+📈 Impact, coordination, and structure are highly important to me
 
 🌱 Constantly learning and improving
 
