@@ -22,7 +22,7 @@ Scraping, Apps & Tools: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?s
 
 🌱 Constantly learning and improving
 
-## 🦒 How do I put a giraffe into a fridge (...or how I approach projects)? ##
+## 🦒 How do I put a giraffe into a fridge (...or how do I approach projects)? ##
 - Start by clearly understanding the problem, context, and constraints
 - Explore multiple angles before committing to a solution
 - Break complex problems into manageable, well-defined steps
