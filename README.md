@@ -34,4 +34,4 @@ Scraping, Apps & Tools: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?s
 ## 🎯 Current focus ##
 - Deepening my expertise of Data Science and ML
 - Building portfolio projects
-- Exploring opportunities at the intersection of AI and entrepreneurship, in diverse fields (e.g. mental health, )
+- Exploring opportunities at the intersection of AI and entrepreneurship, in diverse fields (e.g. mental health, agriculture)
