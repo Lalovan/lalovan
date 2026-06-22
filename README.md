@@ -1,7 +1,6 @@
 ## Hello there 👋
 
 👩‍💻 I’m a data-driven problem solver with a strong interest in machine learning, data science, and building innovative, end-to-end solutions.
-I’m currently enrolled in the AI & ML Data Science Bootcamp at BeCode.
 
 ## Tools & Technologies
 
@@ -24,7 +23,7 @@ Cloud & DevOps:
 ## 🚀 What drives me ##
 🔍 Passionate about finding robust solutions to real-world (fictionous is also fine) problems
 
-🧠 Naturally curious — I like understanding why things work (or don't), not just how
+🧠 Naturally curious — I like understanding why things work (or don't) and how
 
 🧪 Enjoy reading, math, exploring data, look into the details (to a healthy extent), and spotting patterns
 
@@ -42,6 +41,6 @@ Cloud & DevOps:
 ***No giraffe was harmed in the process.** 
 
 ## 🎯 Current focus ##
-- Deepening my expertise of Data Science and ML
+- Deepening my expertise of AI Engineering, Data Science and ML
 - Building portfolio projects
-- Exploring opportunities at the intersection of AI and entrepreneurship, in diverse fields (e.g. mental health, agriculture)
+- Exploring opportunities as a freelancer and entrepreneur
